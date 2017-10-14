@@ -1,0 +1,30 @@
+.navbar{
+	background-color: black;
+	text-align: center;
+	/*margin: auto 0;*/
+	/*border:20px;*/
+
+}
+
+.navbar li{
+	display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+a{
+	color: white;
+	transition:0.5s;
+}
+a:hover{
+	color: black;
+	background-color: gray;
+	padding: 5px;
+
+}
+button{
+	background: red;
+	border: none;
+	color: white;
+	padding: 25px 50px;
+}
